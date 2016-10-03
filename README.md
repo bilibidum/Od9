@@ -12,10 +12,6 @@ Dar permissão para execução
 > sudo chmod +x odoo_install.sh
 
 Executar o script
-> sudo ./odoo_install
-
-ou
-
 > sudo sh odoo_install.sh
 
 Redirecionar porta 8069 -> 80
