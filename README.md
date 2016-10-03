@@ -10,7 +10,10 @@ Baixar o script
 Executar o script
 > sudo ./odoo_install 
 ou 
-sudo sh odoo_install.sh
+> sudo sh odoo_install.sh
+
+Redirecionar porta 8069 -> 80
+> iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8069
 
 
 by Rafael
