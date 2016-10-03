@@ -17,11 +17,5 @@ Executar o script
 
 
 
-######Redirecionar porta 8069 -> 80 (usar esse comando só depois do teste do server)
-> iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8069
-
-
-
-
 
 by Rafael
