@@ -3,7 +3,7 @@ Instalação do Odoo 9.0 no Ubuntu 14.04
 
 
 Baixar o script
-> sudo git clone https://github.com/bilibidum/odoo9.git
+> sudo git clone https://github.com/bilibidum/Odoo9.0.git
 
 Entrar no diretório
 > cd Odoo9.0
